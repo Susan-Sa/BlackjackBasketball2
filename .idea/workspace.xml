@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72cd2a6f-27e7-468f-a037-a190ad476633" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BlackjackBasketball/com/blackjackbasketball/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BlackjackBasketball/com/blackjackbasketball/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BlackjackBasketball/com/blackjackbasketball/PointSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BlackjackBasketball/com/blackjackbasketball/PointSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BlackjackBasketball/com/blackjackbasketball/showMeSomething.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/blackjackbasketball/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/blackjackbasketball/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/blackjackbasketball/PointSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/blackjackbasketball/PointSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/blackjackbasketball/showMeSomething.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jVguQ8Tf5fnwwFm4jc8jHT8mjS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.blackjackbasketball.Main" />
+      <module name="BlackjackBasketball" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blackjackbasketball.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72cd2a6f-27e7-468f-a037-a190ad476633" name="Default Changelist" comment="" />
+      <created>1603894897082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603894897082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1603900891531">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="505" y="169" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/1440.23.1600.877@0.23.1440.877" timestamp="1603900891531" />
+    <state width="1234" height="647" key="GridCell.Tab.0.bottom" timestamp="1605409719740">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1558" height="772" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1600.900@1440.0.1600.900" timestamp="1604007455758" />
+    <state width="1234" height="647" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1605409719740" />
+    <state width="1234" height="661" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1604069892111" />
+    <state width="1234" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1600.877@0.23.1440.877" timestamp="1603912050776" />
+    <state width="1234" height="337" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1600.877@1440.23.1600.877" timestamp="1604006098131" />
+    <state width="1234" height="647" key="GridCell.Tab.0.center" timestamp="1605409719739">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1558" height="772" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1600.900@1440.0.1600.900" timestamp="1604007455756" />
+    <state width="1234" height="647" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1605409719739" />
+    <state width="1234" height="661" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1604069892109" />
+    <state width="1234" height="230" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1600.877@0.23.1440.877" timestamp="1603912050776" />
+    <state width="1234" height="337" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1600.877@1440.23.1600.877" timestamp="1604006098130" />
+    <state width="1234" height="647" key="GridCell.Tab.0.left" timestamp="1605409719739">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1558" height="772" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1600.900@1440.0.1600.900" timestamp="1604007455755" />
+    <state width="1234" height="647" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1605409719739" />
+    <state width="1234" height="661" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1604069892109" />
+    <state width="1234" height="230" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1600.877@0.23.1440.877" timestamp="1603912050775" />
+    <state width="1234" height="337" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1600.877@1440.23.1600.877" timestamp="1604006098130" />
+    <state width="1234" height="647" key="GridCell.Tab.0.right" timestamp="1605409719740">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1558" height="772" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1600.900@1440.0.1600.900" timestamp="1604007455757" />
+    <state width="1234" height="647" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1605409719740" />
+    <state width="1234" height="661" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1604069892110" />
+    <state width="1234" height="230" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1600.877@0.23.1440.877" timestamp="1603912050776" />
+    <state width="1234" height="337" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1600.877@1440.23.1600.877" timestamp="1604006098131" />
+  </component>
+</project>
